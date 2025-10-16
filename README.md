@@ -24,7 +24,8 @@ Data cleaning → Semantic embeddings (MPNet) → Topic modeling → Evaluation 
 
 <p align="center">
   <b>BERTopic Pipeline</b><br>
-  <img src="results/figures/bertopic_pipeline.png" alt="BERTopic Pipeline Diagram" width="700"/>
+  <img src="https://github.com/NextWaveData/Topic_Modeling_Running_Shoes_Reviews/blob/c70e66bece4734cd1e9a46719fc08303b3ad7892/results/figures/image.png?raw=true" 
+       alt="BERTopic Pipeline Diagram" width="700"/>
 </p>
 
 
